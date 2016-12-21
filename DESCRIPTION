@@ -1,5 +1,5 @@
 Package: CopyNumber450kData
-Version: 1.11.0
+Version: 1.11.1
 Date: 2014-01-22
 Title: Example data for the Illumina Methylation 450k array
 Description: Data from 52 control samples from 450k methylation arrays
@@ -11,3 +11,4 @@ Depends: R (>= 2.13.0), minfi, IlluminaHumanMethylation450kmanifest,
         IlluminaHumanMethylation450kanno.ilmn12.hg19
 LazyData: yes
 biocViews: Tissue, Homo_sapiens_Data, MicroarrayData, MethylationArrayData, TissueMicroarrayData
+PackageStatus: Deprecated
